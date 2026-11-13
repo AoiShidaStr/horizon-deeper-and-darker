@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:smooth_gloomslate"
+  },
+  "result": {
+    "id": "deeperdarker:smooth_gloomslate_stairs",
+    "count": 4
+  }
+}

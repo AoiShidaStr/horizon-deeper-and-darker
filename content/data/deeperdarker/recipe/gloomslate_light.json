@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GSG",
+    " G "
+  ],
+  "key": {
+    "G": "deeperdarker:gloomslate",
+    "S": "deeperdarker:sculk_gleam"
+  },
+  "result": {
+    "id": "deeperdarker:gloomslate_light"
+  }
+}

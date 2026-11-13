@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:gloomslate_tiles"
+  },
+  "result": {
+    "id": "deeperdarker:gloomslate_tile_slab",
+    "count": 6
+  }
+}

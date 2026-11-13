@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "G": "deeperdarker:grime_brick"
+  },
+  "result": {
+    "id": "deeperdarker:sculk_grime_bricks"
+  }
+}

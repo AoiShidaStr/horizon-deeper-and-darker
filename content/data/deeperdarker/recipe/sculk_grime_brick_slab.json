@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:sculk_grime_bricks"
+  },
+  "result": {
+    "id": "deeperdarker:sculk_grime_brick_slab",
+    "count": 6
+  }
+}

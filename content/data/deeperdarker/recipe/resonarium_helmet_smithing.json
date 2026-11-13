@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "deeperdarker:resonarium_upgrade_smithing_template",
+  "base": "minecraft:diamond_helmet",
+  "addition": "deeperdarker:resonarium_plate",
+  "result": {
+    "id": "deeperdarker:resonarium_helmet"
+  }
+}

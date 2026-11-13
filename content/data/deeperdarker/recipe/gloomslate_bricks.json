@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": "deeperdarker:polished_gloomslate"
+  },
+  "result": {
+    "id": "deeperdarker:gloomslate_bricks",
+    "count": 4
+  }
+}

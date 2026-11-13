@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "deeperdarker:cobbled_sculk_stone",
+  "result": {
+    "id": "deeperdarker:cobbled_sculk_stone_wall"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "deeperdarker:cobbled_gloomslate",
+  "result": {
+    "id": "deeperdarker:polished_gloomslate_stairs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "key": {
+    "#": "minecraft:stick",
+    "W": "deeperdarker:bloom_planks"
+  },
+  "result": {
+    "id": "deeperdarker:bloom_fence",
+    "count": 3
+  }
+}

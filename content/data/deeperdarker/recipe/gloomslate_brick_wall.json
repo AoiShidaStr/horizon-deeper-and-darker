@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:gloomslate_bricks"
+  },
+  "result": {
+    "id": "deeperdarker:gloomslate_brick_wall",
+    "count": 6
+  }
+}

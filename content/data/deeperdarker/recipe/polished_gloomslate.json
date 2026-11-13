@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": "deeperdarker:cobbled_gloomslate"
+  },
+  "result": {
+    "id": "deeperdarker:polished_gloomslate",
+    "count": 4
+  }
+}

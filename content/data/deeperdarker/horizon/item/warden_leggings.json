@@ -1,0 +1,48 @@
+{
+  "template": "minecraft:iron_leggings",
+  "components": {
+    "minecraft:max_damage": 600,
+    "minecraft:enchantable": {
+      "value": 18
+    },
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "deeperdarker:armor.leggings",
+        "amount": 7.0,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "deeperdarker:armor.leggings",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:knockback_resistance",
+        "id": "deeperdarker:armor.leggings",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:movement_speed",
+        "id": "deeperdarker:armor.leggings",
+        "amount": 0.05,
+        "operation": "add_value",
+        "slot": "legs"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "legs",
+      "asset_id": "deeperdarker:warden",
+      "equip_sound": "minecraft:item.armor.equip_netherite"
+    },
+    "minecraft:damage_resistant": {
+      "types": "#minecraft:is_fire"
+    }
+  },
+  "rarity": "rare"
+}

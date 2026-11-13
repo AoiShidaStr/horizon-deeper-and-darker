@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "deeperdarker:sculk_stone_diamond_ore",
+  "experience": 1.0,
+  "cookingtime": 100,
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

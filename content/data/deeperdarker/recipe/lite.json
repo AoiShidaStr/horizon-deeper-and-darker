@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "deeperdarker:lite_block"
+  ],
+  "result": {
+    "id": "deeperdarker:lite",
+    "count": 4
+  }
+}

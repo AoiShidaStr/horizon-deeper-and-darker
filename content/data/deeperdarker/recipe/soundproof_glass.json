@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SGS",
+    " S "
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "S": "deeperdarker:soul_dust"
+  },
+  "result": {
+    "id": "deeperdarker:soundproof_glass",
+    "count": 2
+  }
+}

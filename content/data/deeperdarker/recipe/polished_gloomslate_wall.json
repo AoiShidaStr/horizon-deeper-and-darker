@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:polished_gloomslate"
+  },
+  "result": {
+    "id": "deeperdarker:polished_gloomslate_wall",
+    "count": 6
+  }
+}

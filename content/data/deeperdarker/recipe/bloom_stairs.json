@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:bloom_planks"
+  },
+  "result": {
+    "id": "deeperdarker:bloom_stairs",
+    "count": 4
+  }
+}

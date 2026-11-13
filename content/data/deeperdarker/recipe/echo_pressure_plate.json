@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "deeperdarker:echo_planks"
+  },
+  "result": {
+    "id": "deeperdarker:echo_pressure_plate"
+  }
+}

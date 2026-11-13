@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "deeperdarker:sculk_stone_redstone_ore",
+  "experience": 0.7,
+  "cookingtime": 100,
+  "result": {
+    "id": "minecraft:redstone"
+  }
+}

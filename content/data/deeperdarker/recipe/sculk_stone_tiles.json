@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": "deeperdarker:sculk_stone_bricks"
+  },
+  "result": {
+    "id": "deeperdarker:sculk_stone_tiles",
+    "count": 4
+  }
+}

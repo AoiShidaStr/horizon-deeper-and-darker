@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#deeperdarker:echo_logs"
+  ],
+  "result": {
+    "id": "deeperdarker:echo_planks",
+    "count": 4
+  }
+}

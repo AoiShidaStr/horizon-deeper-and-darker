@@ -1,0 +1,8 @@
+id = "deeperdarker"
+name = "Deeper and Darker"
+version = "0.1.0"
+description = "Sculk stone, gloomslate, echo and bloom wood, warden gear and the sculk mobs of the deep dark. A Horizon port of Kyanite Mods' Deeper and Darker (GPL-3.0); the Otherside dimension is not ported."
+authors = ["Kyanite Mods", "Horizon port by the Saison 2 server"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

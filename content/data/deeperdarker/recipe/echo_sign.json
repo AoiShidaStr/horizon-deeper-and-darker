@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "key": {
+    "#": "deeperdarker:echo_planks",
+    "X": "minecraft:stick"
+  },
+  "result": {
+    "id": "deeperdarker:echo_sign",
+    "count": 3
+  }
+}

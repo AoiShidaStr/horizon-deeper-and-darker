@@ -1,0 +1,41 @@
+{
+  "template": "minecraft:iron_boots",
+  "components": {
+    "minecraft:max_damage": 520,
+    "minecraft:enchantable": {
+      "value": 18
+    },
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "deeperdarker:armor.boots",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "feet"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "deeperdarker:armor.boots",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "feet"
+      },
+      {
+        "type": "minecraft:knockback_resistance",
+        "id": "deeperdarker:armor.boots",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "feet"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "feet",
+      "asset_id": "deeperdarker:warden",
+      "equip_sound": "minecraft:item.armor.equip_netherite"
+    },
+    "minecraft:damage_resistant": {
+      "types": "#minecraft:is_fire"
+    }
+  },
+  "rarity": "rare"
+}

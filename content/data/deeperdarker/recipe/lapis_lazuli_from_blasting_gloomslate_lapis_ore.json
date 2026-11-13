@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "deeperdarker:gloomslate_lapis_ore",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "result": {
+    "id": "minecraft:lapis_lazuli"
+  }
+}

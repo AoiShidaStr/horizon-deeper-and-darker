@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "deeperdarker:sculk_stone_bricks",
+  "result": {
+    "id": "deeperdarker:sculk_stone_brick_stairs"
+  }
+}

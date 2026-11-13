@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "deeperdarker:stripped_echo_log"
+  },
+  "result": {
+    "id": "deeperdarker:stripped_echo_wood",
+    "count": 3
+  }
+}

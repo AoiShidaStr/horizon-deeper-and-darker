@@ -1,0 +1,41 @@
+{
+  "template": "minecraft:iron_helmet",
+  "components": {
+    "minecraft:max_damage": 440,
+    "minecraft:enchantable": {
+      "value": 18
+    },
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "deeperdarker:armor.helmet",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "head"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "deeperdarker:armor.helmet",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "head"
+      },
+      {
+        "type": "minecraft:knockback_resistance",
+        "id": "deeperdarker:armor.helmet",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "head"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "head",
+      "asset_id": "deeperdarker:warden",
+      "equip_sound": "minecraft:item.armor.equip_netherite"
+    },
+    "minecraft:damage_resistant": {
+      "types": "#minecraft:is_fire"
+    }
+  },
+  "rarity": "rare"
+}

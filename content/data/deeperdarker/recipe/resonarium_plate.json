@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "deeperdarker:resonarium",
+    "deeperdarker:resonarium",
+    "deeperdarker:resonarium",
+    "deeperdarker:resonarium",
+    "#deeperdarker:scutes",
+    "#deeperdarker:scutes",
+    "#deeperdarker:scutes",
+    "#deeperdarker:scutes"
+  ],
+  "result": {
+    "id": "deeperdarker:resonarium_plate"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:cobbled_gloomslate"
+  },
+  "result": {
+    "id": "deeperdarker:cobbled_gloomslate_slab",
+    "count": 6
+  }
+}

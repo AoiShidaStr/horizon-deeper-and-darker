@@ -1,0 +1,9 @@
+{
+  "template": "minecraft:stick",
+  "components": {
+    "minecraft:damage_resistant": {
+      "types": "#minecraft:is_fire"
+    }
+  },
+  "rarity": "rare"
+}

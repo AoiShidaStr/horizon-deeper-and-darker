@@ -1,0 +1,8 @@
+{
+  "template": "minecraft:oak_hanging_sign",
+  "wall_block": "deeperdarker:echo_wall_hanging_sign",
+  "components": {
+    "minecraft:max_stack_size": 16
+  },
+  "item": true
+}

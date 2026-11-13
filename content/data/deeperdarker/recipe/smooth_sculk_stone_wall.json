@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "deeperdarker:smooth_sculk_stone"
+  },
+  "result": {
+    "id": "deeperdarker:smooth_sculk_stone_wall",
+    "count": 6
+  }
+}

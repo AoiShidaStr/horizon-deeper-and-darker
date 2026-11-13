@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "deeperdarker:sculk_stone_gold_ore",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

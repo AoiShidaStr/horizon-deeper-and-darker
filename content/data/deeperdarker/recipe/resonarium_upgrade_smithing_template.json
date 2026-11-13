@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "deeperdarker:resonarium",
+    "S": "deeperdarker:resonarium_upgrade_smithing_template"
+  },
+  "result": {
+    "id": "deeperdarker:resonarium_upgrade_smithing_template",
+    "count": 2
+  }
+}
