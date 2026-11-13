@@ -114,6 +114,7 @@ Last results (2026-11-13):
 | `cargo check -p mod-deeperdarker` (server flavour) | pass |
 | `cargo test -p mod-deeperdarker` | 4 passed, 0 failed |
 | `cargo check -p horizon-native-game` (client flavour, default features) | pass |
+| `cargo check -p horizon-native-game --no-default-features` (dedicated server) | pass |
 | `cargo horizon-mod check deeperdarker.hmod` | pass (API 0.2, content only) |
 | `cargo horizon-mod check deeperdarker.hnmod` | pass (native-1, pinned revision) |
 

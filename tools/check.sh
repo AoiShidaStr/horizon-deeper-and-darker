@@ -16,5 +16,8 @@ echo "test_exit=${PIPESTATUS[0]}"; date
 echo "== check horizon-native-game (client flavour, default features)"
 nice -n 10 cargo check -p horizon-native-game --message-format short 2>&1 | grep -vE "^\s+(Compiling|Checking)"
 echo "check_client_exit=${PIPESTATUS[0]}"; date
+echo "== check horizon-native-game (dedicated server, no default features)"
+nice -n 10 cargo check -p horizon-native-game --no-default-features --message-format short 2>&1 | grep -vE "^\s+(Compiling|Checking)"
+echo "check_server_engine_exit=${PIPESTATUS[0]}"; date
 fi
 echo DONE
